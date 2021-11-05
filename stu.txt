@@ -1,2 +1,6 @@
 Hello STUnited, My name is Huynh Duc Quang Huy
 Hello STUnited, My name is John Wick
+<<<<<<< HEAD
+=======
+- fix 1
+>>>>>>> 2088893 (Applying fix 1 on stu.txt)
