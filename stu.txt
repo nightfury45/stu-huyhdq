@@ -2,4 +2,3 @@ Hello STUnited, My name is Huynh Duc Quang Huy
 Hello STUnited, My name is John Wick
 - fix 1
 - fix 2
-- fix 3
