@@ -1,2 +1,6 @@
 Hello STUnited, My name is Huynh Duc Quang Huy
+<<<<<<< HEAD
 - fix 1
+=======
+- Fix 2
+>>>>>>> hotfix2
