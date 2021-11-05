@@ -3,3 +3,4 @@ Hello STUnited, My name is Huynh Duc Quang Huy
 - Fix 2
 
 - Feature 2
+- Feature 3
